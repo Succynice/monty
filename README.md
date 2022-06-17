@@ -70,4 +70,4 @@ All files have been written in the `Betty Style.`
 *****
 
 ## Authors
-[CHIKEZIE SUCCESS](https://succynice@github.com) abd [EREM CHINEDU](https://alextindey@github.com)
+[CHIKEZIE SUCCESS](https://github.com/Succynice) abd [EREM CHINEDU](https://github.com/alextindey)
